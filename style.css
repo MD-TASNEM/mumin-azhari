@@ -27,13 +27,14 @@ nav a:hover{
 
 
 .cover {
-    font-size: 100px;
+    font-size: 50px;
     font-weight: bolder;
     text-align: center;
-    background-image: url(mumin8.jpg);
+    background-image: url(mumin7.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 1000px;
+    padding-top: 50px;
 }
 
 
