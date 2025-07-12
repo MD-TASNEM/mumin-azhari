@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: white ;
+}
+
+header nav {
+text-align: center;
+padding: 40px;
+background-color: #bbbbbb;
+
+}
+
+nav a{
+font-size: 30px;
+padding: 10px;
+text-decoration: none;
+color: #f18706;
+font-weight: bold;
+}
+
+nav a:hover{
+    background-color: black;
+}
+
+
+
+
+.cover {
+    font-size: 100px;
+    font-weight: bolder;
+    text-align: center;
+    background-image: url(mumin8.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
+
+
+
+.images {
+    size-adjust: 100px;
+}
